@@ -1,1 +1,4 @@
-"data/\n.venv/\n.env/\n.ipynb_checkpoints/" 
+.venv/ 
+data/ 
+*.csv 
+.ipynb_checkpoints/ 
