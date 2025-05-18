@@ -1,6 +1,1 @@
-numpy==latest
-pandas==latest
-python-dateutil==latest
-pytz==latest
-six==latest
-tzdata==latest
+"numpy==1.24.0\npandas==2.0.0" 
