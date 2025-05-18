@@ -1,0 +1,6 @@
+numpy==latest
+pandas==latest
+python-dateutil==latest
+pytz==latest
+six==latest
+tzdata==latest
